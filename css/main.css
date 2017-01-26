@@ -1,17 +1,11 @@
 .name{
   text-align: center;
-  line-height:100px;
   width:1000px;
   height: 100px;
-  transition:all 2.6s ease;
+  transition:all 3.6s ease;
   font-size: 50px;
 }
 
 .name:hover{
   transform: rotate3d(360,360,360,720deg);
-}
-
-
-h1{
-  color: blue;
 }
