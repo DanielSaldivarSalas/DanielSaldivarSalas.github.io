@@ -49,6 +49,17 @@ nav a:hover{
   font-size: xx-large;
 }
 
+.name{
+  text-align: center;
+  width:1000px;
+  height: 100px;
+  transition:all 3.6s ease;
+  font-size: 50px;
+}
+
+.name:hover{
+  transform: rotate3d(360,360,360,720deg);
+}
 button{
   display: inline-block;
   width:120px;
