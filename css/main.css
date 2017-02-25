@@ -41,6 +41,12 @@ nav a:hover{
     display: flex;
   }
 }
+
+@media screen and (min-width: 460px){
+  footer ul{
+    display:flex;
+  }
+}
 .name{
   text-align: center;
   width:1000px;
