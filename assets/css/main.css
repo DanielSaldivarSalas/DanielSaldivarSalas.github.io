@@ -1,3 +1,11 @@
 html {
   font-size: 16px;
 }
+
+.thin-text{
+  font-weight: 300;
+  background: rgba(88,115,255, .7);
+  padding: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+}
