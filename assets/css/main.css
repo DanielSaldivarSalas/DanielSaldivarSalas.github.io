@@ -4,7 +4,7 @@ html {
 
 .thin-text{
   font-weight: 300;
-  background: rgba(88,115,255, .7);
+  background: RGBA(253, 93, 0, 0.7);
   padding: 40px;
   border-radius: 10px;
   font-size: 20px;
